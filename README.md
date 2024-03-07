@@ -18,4 +18,4 @@ This repository contains the final project developed for the course "Business, E
 * ARIMA models
 
 ## Presentation
-- [Github - Project Presentation](https://github.com/jchaconm/UNIPD_BEFD_Lithium/blob/main/Final%20presentation%20.pdf)
+- [Github - Project Presentation](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jchaconm/UNIPD_BEFD_Lithium/main/Final%20presentation%20.pdf)
